@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java script and React
 - 💞️ I’m looking to create new projects and i'm open to collaborate 
 - 📫 How to reach me: on amaya.perezyarza@gmail.com
-- 👀 For Job offers, find me on https://www.linkedin.com/in/coni-perez-yarza/ 
+- 👀 For Job offers, find me on https://www.linkedin.com/in/coni-pérez-yarza/ 
 
 <!---
 Cybercolo/Cybercolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
