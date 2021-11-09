@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cybercolo
 - 👀 I’m interested in Botanica, Sustainability, Equitable growth of society and migrants rights.
-- 🌱 I’m currently learning Java script and React
-- 💞️ I’m looking to create new projects and i'm open to collaborate 
+- 🌱 I’m currently learning React and CC.
+- 💞️ I write a IT Blog, come and say hi! https://devj101.blogspot.com/
 - 📫 How to reach me: on amaya.perezyarza@gmail.com
 - 👀 For Job offers, find me on https://www.linkedin.com/in/coni-pérez-yarza/ 
 
