@@ -2,7 +2,7 @@
 - 👀 I’m interested in Botanica, Sustainability, Equitable growth of society and migrants rights.
 - 🌱 I’m currently learning React and CC.
 - 💞️ I write an IT Blog, come and say hi! https://devj101.blogspot.com/
-- 📫 How to reach me: on amaya.perezyarza@gmail.com
+- 📫 How to reach me: amaya.perezyarza@gmail.com
 - 👀 For Job offers, find me on https://www.linkedin.com/in/coni-pérez-yarza/ 
 
 <!---
