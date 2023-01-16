@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cybercolo
-- 👀 I’m interested in Botanica, Sustainability & Science.
+- 👀 I’m interested in Botanica & Science.
 - 🌱 I’m currently learning React.
 - 💻 I write an IT Blog, come and say hi! https://devj101.blogspot.com/
 - 💰 I`m also passionate about bussines.
