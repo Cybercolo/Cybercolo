@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.
 - 💻 I write an IT Blog, come and say hi! https://devj101.blogspot.com/
 - 💰 I`m also passionate about bussines.
-- 📩 How to reach me: amaya.perezyarza@gmail.com
+- 📩 How to reach me: coni.pya@gmail.com
 - 💡 For Job offers, find me on https://www.linkedin.com/in/coni-pérez-yarza/ 
 
 <!---
