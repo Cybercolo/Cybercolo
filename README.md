@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Cybercolo
-- 👀 I’m interested in Botanica & Science.
-- 🌱 I’m currently learning Ai.
+- 💻 Front-end Developer
 - 💻 I write an IT Blog, come and say hi! https://devj101.blogspot.com/
 - 💰 I`m also passionate about bussines.
 - 📩 How to reach me: coni.pya@gmail.com
