@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Cybercolo
 - 💻 Front-end Developer
-- 💻 I write an IT Blog, come and say hi! https://devj101.blogspot.com/
-- 💰 I`m also passionate about bussines.
+- ❤️ Passionate about positive social impact, science and bussines.
+- 💻 I write an IT Blog, come and say hi! https://devj101.blogspot.com/ 
 - 📩 How to reach me: coni.pya@gmail.com
-- 💡 For Job offers, find me on https://www.linkedin.com/in/coni-pérez-yarza/ 
+- 💡 For Job offers, find me on https://www.linkedin.com/in/coni-pérez-yarza/
+
 
 <!---
 Cybercolo/Cybercolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
